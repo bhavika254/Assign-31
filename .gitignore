@@ -1,0 +1,25 @@
+﻿# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.DS_Store
+/dist
+/build
+
+# Vite
+/.vite
+
+# Logs
+logs
+*.log
+
+# OS
+Thumbs.db
+*.tmp
+
+# Editor
+.vscode/
